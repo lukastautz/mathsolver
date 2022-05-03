@@ -5,7 +5,8 @@ Math Solver ist nur für die private Nutzung gedacht und geeignet!<br>
 Die Zahlen im Datensatz können entweder mit Leerzeichen, mit Pipe (|) oder mit Semikolon (;) getrennt werden. Es ist egal, ob Kommas oder Punkte verwendet werden.<br>
 Copyright (C) 2022 Lukas Tautz.<br>
 <hr>
-Aktuell gibt es nur eine Windows-Version von Math Solver. Da Math Solver auf PHP basiert, könnte ich auch noch eine Linux-Version entwickeln, wenn Bedarf besteht.<br>
+Aktuell gibt es nur eine Windows-Version von Math Solver.<br>
+Da Math Solver auf PHP basiert, könnte ich auch noch eine Linux-Version entwickeln, wenn Bedarf besteht. Wenn Sie eine Linux-Version benötigen, können Sie gerne ein Issue dafür öffnen.<br>
 <hr>
 
 ## Download
