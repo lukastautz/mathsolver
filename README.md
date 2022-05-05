@@ -10,7 +10,7 @@ Da Math Solver auf PHP basiert, könnte ich auch noch eine Linux-Version entwick
 <hr>
 
 ## Download
-Hier können Sie die neueste Windows-Stable-Version herunterladen: [mathsolver.exe](https://github.com/lukastautz/mathsolver/releases/download/mathsolver/mathsolver.exe).<br>
-Hier können Sie das Windows-Deinstallations-Programm herunterladen: [mathsolver_uninstall.exe](https://github.com/lukastautz/mathsolver/releases/download/mathsolver/mathsolver_uninstall.exe).
+Hier können Sie die neueste Windows-Stable-Version herunterladen: [mathsolver.exe](https://github.com/lukastautz/mathsolver/releases/download/mathsolver-installer/mathsolver.exe).<br>
+Hier können Sie das Windows-Deinstallations-Programm herunterladen: [mathsolver_uninstall.exe](https://github.com/lukastautz/mathsolver/releases/download/mathsolver-installer/mathsolver_uninstall.exe).
 <hr><br>
 Nach dem Download müssen Sie mathsolver.exe bzw. mathsolver_uninstall.exe ausführen und eventuell noch bestaätigen dass Sie die Datei herunterladen bzw. ausführen wollen.
